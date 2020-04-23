@@ -1,4 +1,4 @@
-package git;
+package test;
 
 public class Conditional_Operators {
     public static void main(String[] args) {
