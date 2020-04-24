@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f3d7d30b-60c5-4a3f-a708-74500ae3330f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/git/Conditional_Operators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/Conditional_Operators.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,9 +28,16 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TODO_SCOPE" value="All Places" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="test" />
+    </key>
   </component>
   <component name="RunManager">
-    <configuration name="Conditional_Operators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Conditional_Operators" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="git.Conditional_Operators" />
       <module name="gitPractice1" />
       <extension name="coverage">
@@ -43,11 +50,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.Conditional_Operators" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -62,22 +64,59 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
-    <state width="1848" height="226" key="GridCell.Tab.0.bottom" timestamp="1587670268567">
-      <screen x="0" y="23" width="1920" height="982" />
+    <state x="371" y="0" key="CommitChangelistDialog2" timestamp="1587674863117">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
+    <state x="371" y="0" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1587674863117" />
+    <state x="745" y="390" key="Github.ShareDialog" timestamp="1587675554617">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="745" y="390" key="Github.ShareDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1587675554617" />
+    <state width="1848" height="265" key="GridCell.Tab.0.bottom" timestamp="1587675892013">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1848" height="265" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1587675892013" />
     <state width="1848" height="226" key="GridCell.Tab.0.bottom/0.23.1920.982@0.23.1920.982" timestamp="1587670268567" />
-    <state width="1848" height="226" key="GridCell.Tab.0.center" timestamp="1587670268567">
-      <screen x="0" y="23" width="1920" height="982" />
+    <state width="1848" height="265" key="GridCell.Tab.0.center" timestamp="1587675892012">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
+    <state width="1848" height="265" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1587675892012" />
     <state width="1848" height="226" key="GridCell.Tab.0.center/0.23.1920.982@0.23.1920.982" timestamp="1587670268567" />
-    <state width="1848" height="226" key="GridCell.Tab.0.left" timestamp="1587670268566">
-      <screen x="0" y="23" width="1920" height="982" />
+    <state width="1848" height="265" key="GridCell.Tab.0.left" timestamp="1587675892011">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
+    <state width="1848" height="265" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1587675892011" />
     <state width="1848" height="226" key="GridCell.Tab.0.left/0.23.1920.982@0.23.1920.982" timestamp="1587670268566" />
-    <state width="1848" height="226" key="GridCell.Tab.0.right" timestamp="1587670268567">
-      <screen x="0" y="23" width="1920" height="982" />
+    <state width="1848" height="265" key="GridCell.Tab.0.right" timestamp="1587675892013">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
+    <state width="1848" height="265" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1587675892013" />
     <state width="1848" height="226" key="GridCell.Tab.0.right/0.23.1920.982@0.23.1920.982" timestamp="1587670268567" />
+    <state x="472" y="64" key="MultipleFileMergeDialog" timestamp="1587674666506">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="472" y="64" key="MultipleFileMergeDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1587674666506" />
+    <state x="555" y="58" key="RollbackChangesDialog" timestamp="1587674858452">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="555" y="58" key="RollbackChangesDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1587674858452" />
+    <state x="122" y="0" key="SettingsEditor" timestamp="1587675425322">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="122" y="0" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1587675425322" />
   </component>
 </project>
